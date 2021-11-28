@@ -1,6 +1,6 @@
 # Analiza-danych-nnet
 
-Projekt nr.2 na zaliczenie Analizy danych
+Projekt nr.2 na zaliczenie Analizy danych<br />
 Uniwersytet Gdański - Matematyka
 
   Spróbuje zbudować model sieci neuronowej przewidującej wynik partii szachowej 
@@ -21,3 +21,6 @@ przykładowy wynik działania programu:
 
 średni_błąd2<br />
 0.4965
+
+Baza danych:<br />
+https://www.kaggle.com/datasnaek/chess
