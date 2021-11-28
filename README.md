@@ -15,7 +15,8 @@ na pierwszych 100 partiach. Drugi błąd to średnia z 10 iteracji na kolejnych
 z uwagi na wykorzystanie tych samych danych.
 
 przykładowy wynik działania programu:
-> średni_błąd
-[1] 0.4405
-> średni_błąd2
-[1] 0.4965
+
+średni_błąd
+0.4405
+średni_błąd2
+0.4965
