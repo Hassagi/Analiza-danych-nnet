@@ -18,5 +18,6 @@ przykładowy wynik działania programu:
 
 średni_błąd
 0.4405
+
 średni_błąd2
 0.4965
