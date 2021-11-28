@@ -3,7 +3,7 @@
 Projekt nr.2 na zaliczenie Analizy danych<br />
 Uniwersytet Gdański - Matematyka
 
-  Spróbuje zbudować model sieci neuronowej przewidującej wynik partii szachowej 
+ Spróbuje zbudować model sieci neuronowej przewidującej wynik partii szachowej 
 na podstawie punktów Elo określających pozycję poszczególnego gracza w rankingu
 (im więcej punków Elo tym lepszy gracz) oraz ilości ruchów wykonanych w partii.
 Wynik partii może zakończyć się na 3 sposoby: białe wygrywają, czarne wygrywają 
