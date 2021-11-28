@@ -16,8 +16,8 @@ z uwagi na wykorzystanie tych samych danych.
 
 przykładowy wynik działania programu:
 
-średni_błąd
+średni_błąd<br />
 0.4405
 
-średni_błąd2
+średni_błąd2<br />
 0.4965
